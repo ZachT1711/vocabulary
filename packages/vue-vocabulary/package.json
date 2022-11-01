@@ -23,7 +23,7 @@
     "focus-trap-vue": "^1.1.0",
     "lodash": "^4.17.20",
     "node-sass": "^5.0.0",
-    "sass-loader": "^10.0.5",
+    "sass-loader": "^13.1.0",
     "twemoji": "^13.0.1",
     "vue": "^2.6.10",
     "vue-i18n": "^8.20.0"
